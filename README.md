@@ -1,5 +1,5 @@
 # catur
-Tugas Besar Alstrukdat
+
 
 Cara kompilasi:
 	->	Buka terminal
